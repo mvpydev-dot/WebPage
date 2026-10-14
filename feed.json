@@ -9,5 +9,17 @@
         "name": "Mr.V"
     },
     "items": [
+        {
+            "id": "https://github.com/mvpydev-dot/WebPage.git/una-substancia-simplemente-extrana/",
+            "url": "https://github.com/mvpydev-dot/WebPage.git/una-substancia-simplemente-extrana/",
+            "title": "Una Substancia simplemente extraña",
+            "author": {
+                "name": "Mr.V"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-14T17:17:52-03:00",
+            "date_modified": "2026-10-14T17:17:58-03:00"
+        }
     ]
 }

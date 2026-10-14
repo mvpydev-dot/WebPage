@@ -3,10 +3,22 @@
     <title>VOID</title>
     <link href="https://github.com/mvpydev-dot/WebPage.git/feed.xml" rel="self" />
     <link href="https://github.com/mvpydev-dot/WebPage.git" />
-    <updated>1969-12-31T21:00:00-03:00</updated>
+    <updated>2026-10-14T17:17:58-03:00</updated>
     <author>
         <name>Mr.V</name>
     </author>
     <id>https://github.com/mvpydev-dot/WebPage.git</id>
 
+    <entry>
+        <title>Una Substancia simplemente extraña</title>
+        <author>
+            <name>Mr.V</name>
+        </author>
+        <link href="https://github.com/mvpydev-dot/WebPage.git/una-substancia-simplemente-extrana/"/>
+        <id>https://github.com/mvpydev-dot/WebPage.git/una-substancia-simplemente-extrana/</id>
+
+        <updated>2026-10-14T17:17:52-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
