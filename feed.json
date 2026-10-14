@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "VOID",
+    "description": "",
+    "home_page_url": "https://github.com/mvpydev-dot/WebPage.git",
+    "feed_url": "https://github.com/mvpydev-dot/WebPage.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mr.V"
+    },
+    "items": [
+    ]
+}
